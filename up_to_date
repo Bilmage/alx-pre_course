@@ -1,2 +1,2 @@
-echo "git fetch origin main"
-echo "git merge origin/main"
+echo "git fetch origin master"
+echo "git merge origin/master"
